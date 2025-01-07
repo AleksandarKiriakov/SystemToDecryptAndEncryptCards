@@ -7,64 +7,60 @@
      <void property="cards">
       <object class="cards.NormalCard" id="NormalCard0">
        <void property="allCryptNumbers">
-        <object class="java.util.ArrayList">
-         <void method="add">
-          <string>6 7 8 9 0 1 2 3 4 6 7 8 9 0 1 2 </string>
-         </void>
-        </object>
+        <object class="java.util.ArrayList"/>
        </void>
        <void property="cardNumber">
         <string>1234567891234567</string>
        </void>
        <void property="countCrypt">
-        <int>2</int>
+        <int>1</int>
        </void>
        <void property="cypher">
-        <int>7</int>
+        <int>6</int>
        </void>
        <void property="encryptedNumber">
         <array class="int" length="16">
          <void index="0">
-          <int>7</int>
+          <int>6</int>
          </void>
          <void index="1">
-          <int>8</int>
-         </void>
-         <void index="2">
-          <int>9</int>
-         </void>
-         <void index="4">
-          <int>1</int>
-         </void>
-         <void index="5">
-          <int>2</int>
-         </void>
-         <void index="6">
-          <int>3</int>
-         </void>
-         <void index="7">
-          <int>4</int>
-         </void>
-         <void index="8">
-          <int>5</int>
-         </void>
-         <void index="9">
           <int>7</int>
          </void>
-         <void index="10">
+         <void index="2">
           <int>8</int>
          </void>
-         <void index="11">
+         <void index="3">
           <int>9</int>
          </void>
-         <void index="13">
+         <void index="5">
           <int>1</int>
          </void>
-         <void index="14">
+         <void index="6">
           <int>2</int>
          </void>
-         <void index="15">
+         <void index="7">
           <int>3</int>
+         </void>
+         <void index="8">
+          <int>4</int>
+         </void>
+         <void index="9">
+          <int>6</int>
+         </void>
+         <void index="10">
+          <int>7</int>
+         </void>
+         <void index="11">
+          <int>8</int>
+         </void>
+         <void index="12">
+          <int>9</int>
+         </void>
+         <void index="14">
+          <int>1</int>
+         </void>
+         <void index="15">
+          <int>2</int>
          </void>
         </array>
        </void>
@@ -245,66 +241,13 @@
      <void property="cards">
       <object class="cards.NormalCard" id="NormalCard5">
        <void property="allCryptNumbers">
-        <object class="java.util.ArrayList">
-         <void method="add">
-          <string>1 2 3 4 5 6 6 7 8 1 2 3 4 5 6 7 </string>
-         </void>
-        </object>
+        <object class="java.util.ArrayList"/>
        </void>
        <void property="cardNumber">
         <string>1234566781234567</string>
        </void>
-       <void property="countCrypt">
-        <int>2</int>
-       </void>
        <void property="cypher">
-        <int>7</int>
-       </void>
-       <void property="encryptedNumber">
-        <array class="int" length="16">
-         <void index="0">
-          <int>7</int>
-         </void>
-         <void index="1">
-          <int>8</int>
-         </void>
-         <void index="2">
-          <int>9</int>
-         </void>
-         <void index="4">
-          <int>1</int>
-         </void>
-         <void index="5">
-          <int>2</int>
-         </void>
-         <void index="6">
-          <int>2</int>
-         </void>
-         <void index="7">
-          <int>3</int>
-         </void>
-         <void index="8">
-          <int>4</int>
-         </void>
-         <void index="9">
-          <int>7</int>
-         </void>
-         <void index="10">
-          <int>8</int>
-         </void>
-         <void index="11">
-          <int>9</int>
-         </void>
-         <void index="13">
-          <int>1</int>
-         </void>
-         <void index="14">
-          <int>2</int>
-         </void>
-         <void index="15">
-          <int>3</int>
-         </void>
-        </array>
+        <int>5</int>
        </void>
        <void property="module">
         <int>10</int>
@@ -585,85 +528,6 @@
      </void>
     </object>
    </void>
-   <void method="add">
-    <object class="person.User" id="User10">
-     <void property="cards">
-      <object class="cards.NormalCard" id="NormalCard10">
-       <void property="allCryptNumbers">
-        <object class="java.util.ArrayList">
-         <void method="add">
-          <string>9 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 </string>
-         </void>
-        </object>
-       </void>
-       <void property="cardNumber">
-        <string>9234567891234567</string>
-       </void>
-       <void property="countCrypt">
-        <int>2</int>
-       </void>
-       <void property="cypher">
-        <int>7</int>
-       </void>
-       <void property="encryptedNumber">
-        <array class="int" length="16">
-         <void index="0">
-          <int>7</int>
-         </void>
-         <void index="2">
-          <int>1</int>
-         </void>
-         <void index="3">
-          <int>2</int>
-         </void>
-         <void index="4">
-          <int>3</int>
-         </void>
-         <void index="5">
-          <int>4</int>
-         </void>
-         <void index="6">
-          <int>5</int>
-         </void>
-         <void index="7">
-          <int>6</int>
-         </void>
-         <void index="8">
-          <int>7</int>
-         </void>
-         <void index="9">
-          <int>9</int>
-         </void>
-         <void index="11">
-          <int>1</int>
-         </void>
-         <void index="12">
-          <int>2</int>
-         </void>
-         <void index="13">
-          <int>3</int>
-         </void>
-         <void index="14">
-          <int>4</int>
-         </void>
-         <void index="15">
-          <int>5</int>
-         </void>
-        </array>
-       </void>
-       <void property="module">
-        <int>10</int>
-       </void>
-      </object>
-     </void>
-     <void property="name">
-      <string>kiryakov1</string>
-     </void>
-     <void property="pass">
-      <string>kiryakov1</string>
-     </void>
-    </object>
-   </void>
   </void>
   <void property="users">
    <void method="put">
@@ -681,10 +545,6 @@
    <void method="put">
     <string>t</string>
     <object idref="User5"/>
-   </void>
-   <void method="put">
-    <string>kiryakov1</string>
-    <object idref="User10"/>
    </void>
    <void method="put">
     <string>e</string>
@@ -732,6 +592,4 @@
  <object idref="NormalCard8"/>
  <object idref="User9"/>
  <object idref="NormalCard9"/>
- <object idref="User10"/>
- <object idref="NormalCard10"/>
 </java>
