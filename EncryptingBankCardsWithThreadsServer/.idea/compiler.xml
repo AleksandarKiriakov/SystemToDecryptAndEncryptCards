@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="App" options="--add-exports client.view/javaFxModules=App" />
+      <module name="Applications" options="--add-exports client.view/javaFxModules=Applications --add-exports client.view/serverFX=Applications" />
+      <module name="EncryptingBankCardsWithThreadsServer" options="--add-exports java.base/com=EncryptingBankCardsWithThreadsServer,EncryptingBankCardsWithThreadsServer.view" />
+      <module name="StartAdminFolder" options="--add-exports client.view/adminController=StartAdminFolder" />
+      <module name="client.view" options="--add-exports java.desktop/com.sun.java.swing.plaf.motif=client.view" />
+      <module name="javaFx" options="--add-exports java.base/com=javafxTest" />
+    </option>
+  </component>
+</project>

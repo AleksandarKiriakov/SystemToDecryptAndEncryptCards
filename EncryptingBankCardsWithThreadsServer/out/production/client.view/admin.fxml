@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="308.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="adminController.AdminController">
+   <children>
+      <TextField fx:id="CryptedTxt" layoutX="28.0" layoutY="85.0" />
+      <Label layoutX="29.0" layoutY="63.0" prefHeight="26.0" prefWidth="134.0" text="crypt :" />
+      <TextField fx:id="DecrypedtTxt" layoutX="28.0" layoutY="141.0" />
+      <Label layoutX="29.0" layoutY="117.0" prefHeight="26.0" prefWidth="134.0" text="decrypt:" />
+      <Button fx:id="Crypt" layoutX="232.0" layoutY="91.0" mnemonicParsing="false" onAction="#textDecrypt" prefHeight="38.0" prefWidth="134.0" text="Decrypt" />
+      <Button fx:id="Decrypt" layoutX="233.0" layoutY="141.0" mnemonicParsing="false" onAction="#texEncrypt" prefHeight="38.0" prefWidth="134.0" text="Encrypt" />
+      <Button fx:id="SortByCard" layoutX="378.0" layoutY="91.0" mnemonicParsing="false" onAction="#sortByCard" prefHeight="38.0" prefWidth="134.0" text="Sort by card numbers" />
+      <Button fx:id="SortByCrypt" layoutX="378.0" layoutY="141.0" mnemonicParsing="false" onAction="#SortByCrypt" prefHeight="38.0" prefWidth="134.0" text="Sort by crypt numbers" />
+      <Label layoutX="224.0" layoutY="192.0" prefHeight="26.0" prefWidth="150.0" text="Disable user crypt" />
+      <Button fx:id="EnableCrypt" layoutX="28.0" layoutY="219.0" mnemonicParsing="false" onAction="#enableCrypt" prefHeight="38.0" prefWidth="150.0" text="Enable" />
+      <Button fx:id="DisasbleCrypt" layoutX="224.0" layoutY="219.0" mnemonicParsing="false" onAction="#disableCrypt" prefHeight="38.0" prefWidth="150.0" text="Disable" />
+      <TextField fx:id="NameOfUser" layoutX="28.0" layoutY="40.0" text="Write name of user" />
+      <Label layoutX="29.0" layoutY="14.0" prefHeight="26.0" prefWidth="134.0" text="Name of user:" />
+      <Label layoutX="28.0" layoutY="192.0" prefHeight="26.0" prefWidth="150.0" text="Enable user crypt" />
+      <Button fx:id="seeEncryptedNumber" layoutX="232.0" layoutY="44.0" mnemonicParsing="false" onAction="#getEncryptedNumber" prefHeight="38.0" prefWidth="134.0" text="Encrypted Number" />
+      <Button fx:id="seeDecryptedNumber" layoutX="378.0" layoutY="43.0" mnemonicParsing="false" onAction="#getDecryptedNumber" prefHeight="38.0" prefWidth="134.0" text="Decrypted Number" />
+      <Button fx:id="quit" layoutX="405.0" layoutY="219.0" mnemonicParsing="false" onAction="#quit" prefHeight="38.0" prefWidth="150.0" text="Quit" />
+   </children>
+</AnchorPane>

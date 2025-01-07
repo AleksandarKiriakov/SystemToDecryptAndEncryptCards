@@ -1,0 +1,39 @@
+Card number: 1234567891234567
+Encrypted numbers: 6 7 8 9 0 1 2 3 4 6 7 8 9 0 1 2  
+------------
+Card number: c
+Encrypted numbers: 
+------------
+Card number: 1234567812345678
+Encrypted numbers: 
+------------
+Card number: 1234567891234567
+Encrypted numbers: 
+------------
+Card number: 1234567891234567
+Encrypted numbers: 
+------------
+Card number: 1234566781234567
+Encrypted numbers: 1 2 3 4 5 6 6 7 8 1 2 3 4 5 6 7  
+------------
+Card number: 1234546781234567
+Encrypted numbers: 
+------------
+Card number: 12234567891234567
+Encrypted numbers: 
+------------
+Card number: 1233456781134567
+Encrypted numbers: 
+------------
+Card number: 9563960122001999
+Encrypted numbers: 
+------------
+Card number: 9234567891234567
+Encrypted numbers: 9 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7  
+------------
+Card number: 1563960122001999
+Encrypted numbers: 
+------------
+Card number: 1563960122001999
+Encrypted numbers: 
+------------

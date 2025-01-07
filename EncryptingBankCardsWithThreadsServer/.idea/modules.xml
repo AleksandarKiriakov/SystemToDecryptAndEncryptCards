@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client.view/App/App.iml" filepath="$PROJECT_DIR$/client.view/App/App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client.view/App/StartAdminFolder/StartAdminFolder.iml" filepath="$PROJECT_DIR$/client.view/App/StartAdminFolder/StartAdminFolder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client.view/App/StartServerFolder/StartServerFolder.iml" filepath="$PROJECT_DIR$/client.view/App/StartServerFolder/StartServerFolder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/businessLogic/businessLogic.iml" filepath="$PROJECT_DIR$/businessLogic/businessLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client.view/client.view.iml" filepath="$PROJECT_DIR$/client.view/client.view.iml" />
+    </modules>
+  </component>
+</project>
