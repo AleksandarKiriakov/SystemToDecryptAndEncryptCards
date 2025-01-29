@@ -1,0 +1,16 @@
+
+0
+java:S1700"Rename field "server"(³÷øãıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ÉÁ°
+=
+java:S2189"""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ìóÅ¸
+>	java:S108O")Either remove or fill this block of code.(ÜÕŒœ
+^
+java:S1117V"CRename "commandExecutor" which hides the field declared at line 63.(•©ƒ­ùÿÿÿÿ
+T
+java:S4719\"9Replace charset name argument with StandardCharsets.UTF_8(–àİüÿÿÿÿ
+F
+java:S1068>"+Remove this unused "counter" private field.(†„Ë†ÿÿÿÿÿ
+N
+java:S1068?"3Remove this unused "commandExecutor" private field.(º¥¹ÿÿÿÿÿ

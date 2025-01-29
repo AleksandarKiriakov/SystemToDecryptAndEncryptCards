@@ -29,5 +29,9 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module" module-name="client.view" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="036ed9b2-ac7b-43d6-a800-67d304a4a1cb" />
   </component>
 </module>

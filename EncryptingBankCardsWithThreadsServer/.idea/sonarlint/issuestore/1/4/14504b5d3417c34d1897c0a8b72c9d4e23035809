@@ -1,0 +1,24 @@
+
+8
+java:S1643€"Use a StringBuilder instead.(Œç¿ıûÿÿÿÿ
+3
+java:S1643Ç"Use a StringBuilder instead.(Ş˜ƒ
+d
+java:S2259â"HA "NullPointerException" could be thrown; "normalCard" is nullable here.(‡Ú‹Æúÿÿÿÿ
+M
+java:S3958}"2Refactor the code so this stream pipeline is used.(ºâæùÿÿÿÿ
+N
+java:S3958‰"2Refactor the code so this stream pipeline is used.(ôßÌ¼úÿÿÿÿ
+l
+java:S1206à"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+=
+java:S1125k"'Remove the unnecessary boolean literal.(Ë«”¢
+]
+java:S1126Ÿ"AReplace this if-then-else statement by a single return statement.(Àêãùùÿÿÿÿ
+E
+java:S1481µ")Remove this unused "save" local variable.(œ×ÆÅùÿÿÿÿ
+R	java:S125Ğ"<This block of commented-out lines of code should be removed.(É×¶
+;
+java:S2097à"Add a type test to this method.(İ¢êÍıÿÿÿÿ
+E
+java:S1144W"/Remove this unused private "digitCount" method.(¨ÄûÔ

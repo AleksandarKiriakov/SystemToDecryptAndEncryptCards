@@ -1,0 +1,4 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ךלûo
+k
+java:S6218"POverride equals, hashCode and toString to consider array's content in the method(ÊָÛרÿÿÿÿ

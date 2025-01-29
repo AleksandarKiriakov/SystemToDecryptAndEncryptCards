@@ -21,5 +21,9 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module" module-name="businessLogic" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="ca2a9d32-1a05-44f2-b339-def52a96af17" />
   </component>
 </module>
